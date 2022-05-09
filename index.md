@@ -26,6 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```
+from manim import *
+  
+  class S1(Scene):
+    def construct(self):
+    
+```
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
