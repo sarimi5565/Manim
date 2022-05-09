@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cara Penggunaan Manim Community Edition (ManimCE)
 
 You can use the [editor on GitHub](https://github.com/sarimi5565/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
