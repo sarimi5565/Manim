@@ -6,10 +6,10 @@ ___
 
 ___
 
-## Dot
+# Dot
 Dot adalah bulatan kecil
 
-### Parameter
+## Parameter
 - **point** = koordinat dot dalam array `(x,y,z)` (default = `(0,0,0)`)
 - **radius** = saiz dot (default = `0.08`)
 - **color** = warna isi dot (default = `WHITE`)
@@ -28,11 +28,12 @@ class DotExample(Scene):
 ```
 ![Contoh Dot](image/DotExample_ManimCE_v0.15.2.png)
 
+___
 
-## AnnotationDot
+# AnnotationDot
 Dot yang lebih besar, ada isi berwarna, dan ada garis tepi
 
-### Parameter
+## Parameter
 - **radius** = saiz dot (default = 1.3)
 - **stroke_color** = warna garis tepi dot (default = WHITE)
 - **fill_color** = warna isi dot (default = BLUE)
@@ -51,11 +52,12 @@ class AnnotationDotExample(Scene):
 ```
 ![AnnotationDot](image/AnnotationDotExample_ManimCE_v0.15.2.png)
 
+___
 
-## AnnularSector
+# AnnularSector
 Adalah sektor bulatan
 
-### Parameter
+## Parameter
 - **inner_radius** = jejari dalaman Sektor (default = 1)
 - **outer_radius** = jejari luaran Sektor (default = 2)
 - **angle** = sudut arah jam Sektor (default = `90*DEGREES`) (nilai negatif = lawan jam)
