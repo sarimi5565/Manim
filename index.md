@@ -1,4 +1,4 @@
-# Cara Penggunaan Manim Community Edition (ManimCE)
+# Manim Community Edition (ManimCE)
 
 # Senarai Contoh
 
