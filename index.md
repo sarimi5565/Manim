@@ -3,7 +3,7 @@
 ___
 
 # Senarai Contoh
-- [**Matrik**](matrix.md)
+## [**Matrik**](matrix.md)
 ___
 
 # Dot
