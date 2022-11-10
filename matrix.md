@@ -11,7 +11,7 @@
 <body>
 My first html Page.<i>This text is italics</i>
 
-$$x^2 = \frac{n^2+n}{2}$$
+\(x^2 = \frac{n^2+n}{2}\)
 </body>
 </html>
 
